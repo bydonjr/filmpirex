@@ -2,7 +2,7 @@
 
 [Live Site](https://filmpirex24.netlify.app/)
 
-## About
+## About Filmpirex
 
 Features include:
 
@@ -48,6 +48,6 @@ Setup:
 
 ### Screenshots
 
-![1](readme_img/2.png)
+![1](readme/2.png)
 
-![1](readme_img/4.png)
+![1](readme/4.png)
